@@ -6,7 +6,7 @@ console.clear();
 // Fill : The trailing color that you see when you drag the slider.
 // background : Default Range Slider Background
 const sliderProps = {
-    fill: '#0B1EDF',
+    fill: '#5d68e2',
     background: 'rgba(255, 255, 255, 0.214)'
 };
 
