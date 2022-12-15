@@ -1,4 +1,6 @@
 </strong>Password Generator</strong>
 
-Navigator extension for create srtong password
-https://chrome.google.com/webstore/detail/password-generator/bangdilfcikadjgdehcnbjbicflcacda/related
+<p>Navigator extension for create srtong password./<p>
+
+<p>Link:</p>
+<p>https://chrome.google.com/webstore/detail/password-generator/bangdilfcikadjgdehcnbjbicflcacda/related</p>
